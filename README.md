@@ -18,6 +18,6 @@ Je suis étudiant en première année à **Epitech**, passionné par le dévelop
 ## 📫 Me contacter
 
 - Email : [arthur@piron.fr]
-- LinkedIn : [o/]
+- LinkedIn : Arthur PIRON https://www.linkedin.com/in/arthur-piron-42a465353/
 
 N'hésite pas à explorer mes dépôts et à me contacter ! 😃
