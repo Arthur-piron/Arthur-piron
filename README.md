@@ -12,8 +12,8 @@ Je suis étudiant en première année à **Epitech**, passionné par le dévelop
 
 ## 📌 Projets
 
-- **Projet 1** : o/
-- **Projet 2** : o/
+- **Projet 1** : my_world
+- **Projet 2** : my_printf
 
 ## 📫 Me contacter
 
