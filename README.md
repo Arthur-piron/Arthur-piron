@@ -14,6 +14,7 @@ Je suis étudiant en première année à **Epitech**, passionné par le dévelop
 
 - **Projet 1** : my_world
 - **Projet 2** : my_printf
+- **Projet 1** : resize image script
 
 ## 📫 Me contacter
 
