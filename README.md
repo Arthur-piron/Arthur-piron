@@ -2,7 +2,7 @@
 
 ## 🚀 À propos de moi
 
-Je suis étudiant en 2 eme année à **Epitech**, passionné par le développement et les nouvelles technologies. J'apprends à coder et à résoudre des problèmes complexes grâce aux projets.
+Je suis étudiant en 3 eme année à **Epitech**, passionné par le développement et les nouvelles technologies. J'apprends à coder et à résoudre des problèmes complexes grâce aux projets.
 
 ## 💻 Compétences
 
