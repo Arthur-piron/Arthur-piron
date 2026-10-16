@@ -15,9 +15,9 @@
 
 Salut, moi c'est Arthur, en 3ᵉ année à Epitech.
 
-Je code surtout en C, C++ et Python, et ce que je préfère, c'est quand un projet résiste un peu : un bug réseau qui me tient trois jours, des bots qui refusent de se coordonner… jusqu'au moment où tout finit par marcher.
+Je code surtout en C, C++ et Python, et j'aime travailler en équipe.
 
-À côté de l'école, je bricole des bots Discord, des mods de jeux et des petits scripts pour automatiser tout ce qui m'ennuie.
+À côté de l'école, je bricole des bots Discord, des mods de jeux, et j'aime bien automatiser mes tâches du quotidien.
 
 ---
 
