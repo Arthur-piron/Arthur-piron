@@ -1,6 +1,6 @@
 <h1 align="center">Arthur Piron</h1>
 <p align="center">
-  <b>Étudiant en 3ᵉ année à Epitech</b> · Systèmes, réseau, IA & backend<br>
+  <b>Étudiant en 3ᵉ année à Epitech</b> · Automatisation, réseau, IA & backend<br>
   <b>À la recherche d'un stage de 4 mois</b>
 </p>
 
