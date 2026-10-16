@@ -31,7 +31,7 @@ Je code surtout en C, C++ et Python, et ce que je préfère, c'est quand un proj
   <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#"></a>
   <a href="https://learn.microsoft.com/dotnet/"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET"></a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"></a>
-  <a href="https://www.rust-lang.org/learn"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" title="Rust"></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React"></a>
   <a href="https://www.gnu.org/software/bash/manual/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash"></a>
 </p>
 <p>
